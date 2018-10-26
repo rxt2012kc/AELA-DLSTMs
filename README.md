@@ -6,6 +6,7 @@ AELA-DLSTMs: Attention-Enabled and Location-Aware Double LSTMs for Aspect-level 
 * Theano 0.9.0
 * numpy 1.13.1
 * pygpu 0.6.9
+* GloVe.840B.300d
 
 ## Running
 ```
